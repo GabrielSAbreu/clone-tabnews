@@ -1,4 +1,4 @@
-import building from "../src/building.svg";
+import building from "../public/building.svg";
 
 function inBulding() {
   return (
@@ -10,3 +10,4 @@ function inBulding() {
 }
 
 export default inBulding;
+/home/gabriel-abreu/Documentos/clone-tabnews/public/building.svg
